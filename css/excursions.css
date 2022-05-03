@@ -565,6 +565,7 @@ label img {
     width: 808px;
     max-width: 808px;
     margin-top: 125px;
+    align-self: center;
   }
 
   .filter-content {
