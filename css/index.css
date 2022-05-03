@@ -1261,14 +1261,6 @@ label img {
 
 /** Reviews Section **/ 
 
-.rewg {
-  align-items: center;
-}
-
-.rewg .show-text {
-  top: 0;
-}
-
 .reviews {
   position: relative;
   padding-top: 90px;
@@ -1361,17 +1353,6 @@ label img {
 }
 
 @media screen and (max-width: 656px) {
-  .review {
-    width: 455px;
-    height: 276px;
-    background-size: 50% 50%;
-    background-position: 238px 134px;
-    padding: 26px 17px 65px 31px;
-    gap: 0 20px;
-  }
-}
-
-@media screen and (max-width: 428px) {
   .reviews {
     height: 825px;
   }
@@ -1414,7 +1395,6 @@ label img {
     width: 170px;
   }
 }
-
 /** Contact Section **/
 
 .contact {
