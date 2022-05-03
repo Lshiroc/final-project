@@ -37,7 +37,8 @@ body {
 }
 
 .g-wrapper {
-    overflow-x: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .section-x {
