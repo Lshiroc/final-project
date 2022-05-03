@@ -34,6 +34,9 @@
   
 body {
     font-family: var(--montserrat);
+}
+
+.g-wrapper {
     overflow-x: hidden;
 }
 
