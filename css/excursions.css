@@ -565,9 +565,14 @@ label img {
     width: 808px;
     max-width: 808px;
     margin-top: 125px;
-    align-self: center;
   }
 
+  .main-content {
+    display: grid;
+    grid-template-rows: auto auto;
+    justify-content: center;
+  }
+  
   .filter-content {
     display: flex;
     flex-wrap: wrap;
